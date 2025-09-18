@@ -28,8 +28,8 @@ Just open `Creepy.html` in your browser to experience the page as intended.
 
 ## Notes
 
-- Some image links reference local folders (`Random/`, `Profile pitcures/`) – make sure those images are present for the full effect.
 - The page is meant for fun, pranks, or as a playful demonstration of creepy UI design.
+- I don't really know what I'm doing.
 
 ---
 
