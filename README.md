@@ -33,4 +33,5 @@ Just open `Creepy.html` in your browser to experience the page as intended.
 
 ---
 
-Enjoy, and remember... Trust me.
+IDFK I was bored, and this is my first website. Very cringe, IK. 
+It was like- 2am when I was making this. I need sleep.
